@@ -3,6 +3,7 @@ import '../component/search-bar.js';
 import '../component/club-list.js';
 
 const main = ()  => {
+
     const searchElement = document.querySelector("search-bar");
     const clubListElement = document.querySelector("club-list");
 
